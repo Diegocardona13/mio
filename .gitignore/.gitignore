@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>practica</title>
+    <link hcet ="style.css" rel ="stylesheet">
+</head>
+<body style="    background-color: rgb(56, 47, 49); 
+">
+        
+    
+    
+    
+    <header style="
+    height: 100%;
+    background-image: url( img/guantes.jpg);
+    background-size: cover;
+    height: 600px ;
+    width: 100%;
+    text-align: center;
+    background-attachment: fixed;">
+    
+
+         <img class="batman" src="img/batman.png" alt="logo de batman">
+    </header>
+
+    <main>
+        <h1 style="
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+            background-color: darkgray;
+            color: chartreuse;"
+         >    CURRICULUM VITAE DE DIEGO </h1>
+        
+        <h2>DATOS PERSONALES</h2>
+        <ul>
+            <li><b>nombre completo<b> diego alejandro cardona calle</li>
+            <li>fecha de nacimiento</li>
+            <li>lugar de nacimiento</li>
+        </ul>
+        <h2>fomacion academica</h2>
+        <span>
+
+        </span>
+        <h2>experiencia laborar</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae deserunt perspiciatis accusantium.
+        </p>
+    </main>
+
+    <footer>
+
+    </footer>
+</body>
+<html>
